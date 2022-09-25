@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//jmm-happens-before/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"//jmm-happens-before/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
